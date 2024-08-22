@@ -1,0 +1,30 @@
+{
+  "name": "mfy-cli",
+  "version": "1.0.0",
+  "description": "test devlop cli",
+  "main": "index.js",
+  "bin": {
+    "mfy-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "commander": "^12.0.0",
+    "css-loader": "^7.1.2",
+    "process": "^0.11.10",
+    "style-loader": "^4.0.0",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/generator": "^7.24.1",
+    "@babel/parser": "^7.24.1",
+    "@babel/preset-react": "^7.24.1",
+    "@babel/preset-typescript": "^7.24.1",
+    "@babel/traverse": "^7.24.1"
+  }
+}
