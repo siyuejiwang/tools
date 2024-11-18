@@ -89,7 +89,7 @@
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-5">
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yHctsX7cKEwODxLjcGEp-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;根据模块路径找到对应的文件，并解析其依赖关系。利用http缓存解析模块&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
@@ -138,16 +138,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-3" value="依赖预构建" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-5" target="5Hu--Ve8GHNzu-1RMvdn-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-5" value="依赖解析" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-7" value="转换&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;CommonJS 或 UMD 形式依赖项转换为 ES 模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-9" value="将npm依赖转换为es模块，将多单文件导入模块的npm依赖构建成单模块" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-9" target="5Hu--Ve8GHNzu-1RMvdn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-9" target="5Hu--Ve8GHNzu-1RMvdn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-9" value="esbuild将npm依赖转换为es模块，将多单文件导入模块的npm依赖构建成单模块" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-11" target="5Hu--Ve8GHNzu-1RMvdn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-11" target="5Hu--Ve8GHNzu-1RMvdn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-11" value="构建依赖缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-13" value="文件系统缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-15" value="浏览器缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-18" value="&lt;h1 style=&quot;box-sizing: border-box; margin: 0px; line-height: 100%; overflow-wrap: break-word; position: relative; outline: none; letter-spacing: -0.02em; color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255); font-size: 13px;&quot; tabindex=&quot;-1&quot; id=&quot;dep-optimization-options&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;依赖优化选项&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;box-sizing: border-box; margin: 0px; line-height: 100%; overflow-wrap: break-word; position: relative; outline: none; letter-spacing: -0.02em; color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255); font-size: 13px;&quot; tabindex=&quot;-1&quot; id=&quot;dep-optimization-options&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;自定义构建include,exclude等&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-20" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;扫描您的源代码，并自动寻找引入的依赖项&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
