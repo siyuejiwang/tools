@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="984" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,23 +26,23 @@
         <mxCell id="62893188c0fa7362-8" value="&lt;span style=&quot;--un-rotate: 0; --un-rotate-x: 0; --un-rotate-y: 0; --un-rotate-z: 0; --un-scale-x: 1; --un-scale-y: 1; --un-scale-z: 1; --un-skew-x: 0; --un-skew-y: 0; --un-translate-x: 0; --un-translate-y: 0; --un-translate-z: 0; --un-pan-x: ; --un-pan-y: ; --un-pinch-zoom: ; --un-scroll-snap-strictness: proximity; --un-ordinal: ; --un-slashed-zero: ; --un-numeric-figure: ; --un-numeric-spacing: ; --un-numeric-fraction: ; --un-border-spacing-x: 0; --un-border-spacing-y: 0; --un-ring-offset-shadow: 0 0 transparent; --un-ring-shadow: 0 0 transparent; --un-shadow-inset: ; --un-shadow: 0 0 transparent; --un-ring-inset: ; --un-ring-offset-width: 0px; --un-ring-offset-color: #fff; --un-ring-width: 0px; --un-ring-color: rgba(147,197,253,.5); --un-blur: ; --un-brightness: ; --un-contrast: ; --un-drop-shadow: ; --un-grayscale: ; --un-hue-rotate: ; --un-invert: ; --un-saturate: ; --un-sepia: ; --un-backdrop-blur: ; --un-backdrop-brightness: ; --un-backdrop-contrast: ; --un-backdrop-grayscale: ; --un-backdrop-hue-rotate: ; --un-backdrop-invert: ; --un-backdrop-opacity: ; --un-backdrop-saturate: ; --un-backdrop-sepia: ; box-sizing: border-box; font-weight: 600; color: rgb(44, 44, 54); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; letter-spacing: 0.08px; text-align: left; background-color: rgb(255, 255, 255);&quot; data-spm-anchor-id=&quot;5176.28103460.0.i6.297c5d27ZNSkjN&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;快速冷启动&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-3">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-10">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;快速模块热替换（HMR）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-10" target="yHctsX7cKEwODxLjcGEp-14">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-10" target="yHctsX7cKEwODxLjcGEp-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-10" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;解析模块依赖关系，构建依赖图&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;启动开发服务器&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-14" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-8" edge="1">
           <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
@@ -64,13 +64,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="62893188c0fa7362-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加载入口模块,获取依赖&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;原生 ES 模块&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-21" target="yHctsX7cKEwODxLjcGEp-1">
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62893188c0fa7362-20" target="5Hu--Ve8GHNzu-1RMvdn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-21" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;处理依赖模块的请求（浏览器发起），提供文件服务&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加载入口模块,获取依赖&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;原生 ES 模块&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-21" target="yHctsX7cKEwODxLjcGEp-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-21" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;处理依赖模块的请求（浏览器发起），提供文件服务&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="290" y="500" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62893188c0fa7362-24" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-20" edge="1">
@@ -83,41 +86,68 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;根据模块路径找到对应的文件，并解析其依赖关系。利用http缓存解析模块&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监听文件变化，根据依赖图查找受影响模块，&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;根据模块路径找到对应的文件，并解析其依赖关系。利用http缓存解析模块&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监听文件变化，根据依赖图查找受影响模块，&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="422" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-10" target="yHctsX7cKEwODxLjcGEp-12">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-10" target="yHctsX7cKEwODxLjcGEp-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;发送更新指令和更新信息给浏览器&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;发送更新指令和更新信息给浏览器&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-12" value="websocket连接" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-12" value="websocket连接" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-16">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-21">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-23">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-14" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; font-size: 16px; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;代码转换与优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-14" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; font-size: 16px; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;代码转换与优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-16" value="js转es5，压缩混淆" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-16" value="js转es5，压缩混淆" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-21" value="scss转换，静态资源提取" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-21" value="scss转换，静态资源提取" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1100" y="510" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yHctsX7cKEwODxLjcGEp-23" value="代码分割与按需加载" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yHctsX7cKEwODxLjcGEp-23" value="代码分割与按需加载" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="920" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-1" value="项目根目录index.html&lt;div&gt;&amp;lt;script type=&quot;module&quot; src=&amp;gt;&amp;lt;/script&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&amp;lt;link href&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="630" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-3" target="5Hu--Ve8GHNzu-1RMvdn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-3" target="5Hu--Ve8GHNzu-1RMvdn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-3" value="依赖预构建" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-5" value="依赖解析" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-7" value="转换&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;CommonJS 或 UMD 形式依赖项转换为 ES 模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-9" value="将npm依赖转换为es模块，将多单文件导入模块的npm依赖构建成单模块" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
