@@ -415,8 +415,14 @@
             <mxPoint x="850" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-109" value="webassembly" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-121" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-109" target="5Hu--Ve8GHNzu-1RMvdn-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-109" target="5Hu--Ve8GHNzu-1RMvdn-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-109" value="webassembly&lt;div&gt;二进制文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-111" target="5Hu--Ve8GHNzu-1RMvdn-29">
           <mxGeometry relative="1" as="geometry" />
@@ -428,13 +434,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-111" value="webworkers" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="3090" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-114" value="构造器导入，推荐" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2660" y="1005" width="120" height="60" as="geometry" />
+          <mxGeometry x="3030" y="1005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Hu--Ve8GHNzu-1RMvdn-117" value="查询后缀导入" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="1005" width="120" height="60" as="geometry" />
+          <mxGeometry x="3170" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-120" value="?init导入，默认值初始化函数，执行后返回promise对象，导出assembly instance实例" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-122" value="?url加载，fetch(url),再实例化" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
