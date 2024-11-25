@@ -1,6 +1,10 @@
 {
   "name": "gvite-scripts",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siyuejiwang/tools/tree/master/packages/mfy-vite-scripts"
+  },
   "description": "use vite to run react project",
   "main": "./dist/bin/index.js",
   "type": "module",
