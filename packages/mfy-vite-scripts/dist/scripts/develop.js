@@ -198,7 +198,10 @@ async function getViteConfig() {
 class BaseCommand extends Command {
   constructor(name) {
     super(name);
-    const data = fs.readFileSync(findModulePath("../../package.json"), "utf-8");
+    const data = fs.readFileSync(
+      findModulePath("../../package.json", import.meta.url),
+      "utf-8"
+    );
     const pkg = JSON.parse(data);
     this.version(pkg.version);
     this.description(pkg.description);

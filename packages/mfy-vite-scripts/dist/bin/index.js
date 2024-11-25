@@ -36,7 +36,7 @@ if (commanders.includes(script)) {
   const result = spawn.sync(
     process.execPath,
     nodeArgs
-      .concat(findModulePath(`../scripts/${script}.js`))
+      .concat(findModulePath(`../scripts/${script}.js`, import.meta.url))
       .concat(args.slice(scriptIndex + 1)),
     { stdio: "inherit" }
   );
