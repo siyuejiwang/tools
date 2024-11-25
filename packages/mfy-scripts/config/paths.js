@@ -67,10 +67,10 @@ module.exports = {
   appVersion: pkg.version,
   appModuleEntry: pkg.module,
   federationConfig: (() => {
-    pkg.federationConfig.exposes && Object.keys(pkg.federationConfig.exposes).forEach((key) => {
+    pkg.federationConfig?.exposes && Object.keys(pkg.federationConfig.exposes).forEach((key) => {
       pkg.federationConfig.exposes[key] = resolveApp(pkg.federationConfig.exposes[key]);
     });
-    return pkg.federationConfig;
+    return pkg.federationConfig || {};
   })(),
   assetsPath: assetsPath,
   appIndexJs: fs.existsSync("src/index.tsx")

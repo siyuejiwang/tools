@@ -9,8 +9,8 @@ try {
   let compiler = webpack(config);
 
   compiler.run((err, stas) => {
-    if (err) {
-      console.log(err);
+    if (err || stas) {
+      console.log(err || stas);
     } else {
       console.log("build successfully");
     }

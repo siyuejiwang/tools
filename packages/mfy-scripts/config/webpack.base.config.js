@@ -166,7 +166,7 @@ module.exports = (env) => {
                       loader: MiniCssExtractPlugin.loader,
                       options: {
                         publicPath: isScript4Lib ? "./" : "../../",
-                        esModule: false,
+                        esModule: true,
                         defaultExport: true,
                       },
                     },
@@ -258,7 +258,7 @@ module.exports = (env) => {
             name: false,
             maxInitialRequests: 6,
           },
-          // runtimeChunk: true,
+          runtimeChunk: true,
         }
       : {},
   };
