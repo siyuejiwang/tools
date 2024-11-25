@@ -1,48 +1,16 @@
-import { transformWithEsbuild, defineConfig, createServer } from 'vite';
+import { defineConfig, createServer } from 'vite';
 import react from '@vitejs/plugin-react';
-import { createFilter } from '@rollup/pluginutils';
-import fs from 'fs';
+import svgr from '@svgr/rollup';
+import url from 'rollup-plugin-url';
 import { viteExternalsPlugin } from 'vite-plugin-externals';
 import { createHtmlPlugin } from 'vite-plugin-html';
-import ArgsParser from 'yargs-parser';
+import fs from 'fs';
 import path from 'path';
+import ArgsParser from 'yargs-parser';
 import chalk$1 from 'chalk';
 import { Command } from 'commander';
 import { f as findModulePath } from '../utils/findPath.js';
 import 'url';
-
-function vitePluginSvgr({ svgrOptions, esbuildOptions, include = "**/*.svg", exclude, } = {}) {
-    const filter = createFilter(include, exclude);
-    const postfixRE = /[?#].*$/s;
-    return {
-        name: "vite-plugin-svgr",
-        enforce: "pre", // to override `vite:asset`'s behavior
-        async load(id) {
-            if (filter(id)) {
-                const { transform } = await import('@svgr/core');
-                const { default: jsx } = await import('@svgr/plugin-jsx');
-                const filePath = id.replace(postfixRE, "");
-                const svgCode = await fs.promises.readFile(filePath, "utf8");
-                const base64 =
-        "data:image/svg+xml;base64," + Buffer.from(svgCode).toString("base64");
-                const componentCode = await transform(svgCode, svgrOptions, {
-                    filePath,
-                    caller: {
-                        defaultPlugins: [jsx],
-                    },
-                });
-                const res = await transformWithEsbuild(componentCode, id, {
-                    loader: "jsx",
-                    ...esbuildOptions,
-                });
-                return {
-                    code: res.code + `\n export default "${base64}"`,
-                    map: null,
-                };
-            }
-        },
-    };
-}
 
 function getArgs(argsOptions = {}) {
   const argsParserOption = {
@@ -55,7 +23,7 @@ function getArgs(argsOptions = {}) {
   return ArgsParser(process.argv, argsParserOption);
 }
 
-const resolveApp = (relativePath) => path.resolve(process.cwd(), relativePath);
+const resolveApp$1 = (relativePath) => path.resolve(process.cwd(), relativePath);
 const getConfigure = (target) => {
   return (proxy, options) => {
     proxy.on("proxyReq", (proxyReq) => {
@@ -114,11 +82,11 @@ const prepareProxy = (proxy) => {
     }, {});
 };
 async function getProxySetting() {
-  const pkgData = fs.readFileSync(resolveApp("package.json"), "utf-8");
+  const pkgData = fs.readFileSync(resolveApp$1("package.json"), "utf-8");
   const packageJson = JSON.parse(pkgData);
   const { proxy: packageJsonSetting } = packageJson;
-  const proxyJsonSetting = fs.existsSync(resolveApp("proxy.json"))
-    ? JSON.parse(fs.readFileSync(resolveApp("proxy.json"), "utf-8"))
+  const proxyJsonSetting = fs.existsSync(resolveApp$1("proxy.json"))
+    ? JSON.parse(fs.readFileSync(resolveApp$1("proxy.json"), "utf-8"))
     : {};
   //proxy.json中的配置没有指定ignoreEnv时默认忽略环境
   Object.keys(proxyJsonSetting).forEach((o) => {
@@ -131,10 +99,18 @@ async function getProxySetting() {
   return prepareProxy(proxySetting);
 }
 
-const { case: gwCase = "goodwe", env = "dev", htmlTemplate = "public/dev.html" } = getArgs();
+const resolveApp = (relativePath) => path.resolve(process.cwd(), relativePath);
+const {
+  case: gwCase = "goodwe",
+  env = "dev",
+  htmlTemplate = "public/dev.html",
+} = getArgs();
 const { PORT = 3000, HOST = "127.0.0.1" } = process.env;
 async function getViteConfig() {
   const proxySetting = await getProxySetting();
+  const viteConfigSetting = fs.existsSync(resolveApp("vite.config.mjs"))
+    ? (await import(resolveApp("vite.config.mjs"))).default
+    : {};
   return defineConfig({
     define: {
       ENV: JSON.stringify(env),
@@ -146,7 +122,7 @@ async function getViteConfig() {
     css: {
       preprocessorOptions: {
         less: {
-          math: 'always',
+          math: "always",
         },
       },
     },
@@ -166,15 +142,8 @@ async function getViteConfig() {
         moment: "moment",
       }),
       react(),
-      // svgr options: https://react-svgr.com/docs/options/
-      vitePluginSvgr({
-        svgrOptions: {
-          exportType: "named",
-          ref: true,
-          svgo: false,
-          titleProp: true,
-        },
-      }),
+      url(),
+      svgr(),
     ],
     root: process.cwd(),
     mode: "development",
@@ -192,6 +161,7 @@ async function getViteConfig() {
       open: true,
       proxy: proxySetting,
     },
+    ...viteConfigSetting,
   });
 }
 

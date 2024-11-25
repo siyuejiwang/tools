@@ -1,15 +1,26 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import vitePluginSvgr from "../plugins/svgr.plugin.js";
+import svgr from "@svgr/rollup";
+import url from "rollup-plugin-url";
 import { viteExternalsPlugin } from "vite-plugin-externals";
 import { createHtmlPlugin } from "vite-plugin-html";
+import fs from "fs";
+import paths from "path";
 import { getArgs } from "../utils/args.js";
 import { getProxySetting } from "../utils/proxy.js";
 
-const { case: gwCase = "goodwe", env = "dev", htmlTemplate = "public/dev.html" } = getArgs();
+const resolveApp = (relativePath) => paths.resolve(process.cwd(), relativePath);
+const {
+  case: gwCase = "goodwe",
+  env = "dev",
+  htmlTemplate = "public/dev.html",
+} = getArgs();
 const { PORT = 3000, HOST = "127.0.0.1" } = process.env;
 export async function getViteConfig() {
   const proxySetting = await getProxySetting();
+  const viteConfigSetting = fs.existsSync(resolveApp("vite.config.mjs"))
+    ? (await import(resolveApp("vite.config.mjs"))).default
+    : {};
   return defineConfig({
     define: {
       ENV: JSON.stringify(env),
@@ -21,7 +32,7 @@ export async function getViteConfig() {
     css: {
       preprocessorOptions: {
         less: {
-          math: 'always',
+          math: "always",
         },
       },
     },
@@ -41,15 +52,8 @@ export async function getViteConfig() {
         moment: "moment",
       }),
       react(),
-      // svgr options: https://react-svgr.com/docs/options/
-      vitePluginSvgr({
-        svgrOptions: {
-          exportType: "named",
-          ref: true,
-          svgo: false,
-          titleProp: true,
-        },
-      }),
+      url(),
+      svgr(),
     ],
     root: process.cwd(),
     mode: "development",
@@ -67,5 +71,6 @@ export async function getViteConfig() {
       open: true,
       proxy: proxySetting,
     },
+    ...viteConfigSetting,
   });
 }
