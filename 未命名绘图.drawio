@@ -1,0 +1,459 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="2201" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62893188c0fa7362-1" value="VITE" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-2" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;快速开发服务器&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-3" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;高效的构建工具&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="780" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-3" edge="1">
+          <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2" edge="1">
+          <mxGeometry x="-0.3528" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-8" value="&lt;span style=&quot;--un-rotate: 0; --un-rotate-x: 0; --un-rotate-y: 0; --un-rotate-z: 0; --un-scale-x: 1; --un-scale-y: 1; --un-scale-z: 1; --un-skew-x: 0; --un-skew-y: 0; --un-translate-x: 0; --un-translate-y: 0; --un-translate-z: 0; --un-pan-x: ; --un-pan-y: ; --un-pinch-zoom: ; --un-scroll-snap-strictness: proximity; --un-ordinal: ; --un-slashed-zero: ; --un-numeric-figure: ; --un-numeric-spacing: ; --un-numeric-fraction: ; --un-border-spacing-x: 0; --un-border-spacing-y: 0; --un-ring-offset-shadow: 0 0 transparent; --un-ring-shadow: 0 0 transparent; --un-shadow-inset: ; --un-shadow: 0 0 transparent; --un-ring-inset: ; --un-ring-offset-width: 0px; --un-ring-offset-color: #fff; --un-ring-width: 0px; --un-ring-color: rgba(147,197,253,.5); --un-blur: ; --un-brightness: ; --un-contrast: ; --un-drop-shadow: ; --un-grayscale: ; --un-hue-rotate: ; --un-invert: ; --un-saturate: ; --un-sepia: ; --un-backdrop-blur: ; --un-backdrop-brightness: ; --un-backdrop-contrast: ; --un-backdrop-grayscale: ; --un-backdrop-hue-rotate: ; --un-backdrop-invert: ; --un-backdrop-opacity: ; --un-backdrop-saturate: ; --un-backdrop-sepia: ; box-sizing: border-box; font-weight: 600; color: rgb(44, 44, 54); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; letter-spacing: 0.08px; text-align: left; background-color: rgb(255, 255, 255);&quot; data-spm-anchor-id=&quot;5176.28103460.0.i6.297c5d27ZNSkjN&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;快速冷启动&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-9" target="yHctsX7cKEwODxLjcGEp-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;快速模块热替换（HMR）&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="62893188c0fa7362-10" target="yHctsX7cKEwODxLjcGEp-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-10" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;解析模块依赖关系，构建依赖图&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-12" value="&lt;span&gt;启动开发服务器&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-14" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-8" edge="1">
+          <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-15" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-9" edge="1">
+          <mxGeometry x="-0.2" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-16" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-10" edge="1">
+          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-18" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-8" target="62893188c0fa7362-12" edge="1">
+          <mxGeometry x="-0.2168" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="62893188c0fa7362-20" target="5Hu--Ve8GHNzu-1RMvdn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;加载入口模块,获取依赖&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;原生 ES 模块&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="62893188c0fa7362-12" target="yHctsX7cKEwODxLjcGEp-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-21" target="5Hu--Ve8GHNzu-1RMvdn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-21" target="5Hu--Ve8GHNzu-1RMvdn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-21" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;处理模块的请求（浏览器发起），提供文件服务&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-24" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-20" edge="1">
+          <mxGeometry x="0.1373" y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-25" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="62893188c0fa7362-12" target="62893188c0fa7362-21" edge="1">
+          <mxGeometry x="0.1373" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-1" target="5Hu--Ve8GHNzu-1RMvdn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;处理依赖模块&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;监听文件变化，根据依赖图查找受影响模块，&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="422" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-10" target="yHctsX7cKEwODxLjcGEp-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;发送更新指令和更新信息给浏览器&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-12" value="websocket连接" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="yHctsX7cKEwODxLjcGEp-14" target="yHctsX7cKEwODxLjcGEp-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-14" value="&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-weight: 600; color: initial; font-size: 16px; line-height: var(--md-box-samantha-normal-text-line-height); overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;代码转换与优化&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="840" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-16" value="js转es5，压缩混淆" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-21" value="scss转换，静态资源提取" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-125" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yHctsX7cKEwODxLjcGEp-23" target="5Hu--Ve8GHNzu-1RMvdn-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yHctsX7cKEwODxLjcGEp-23" value="代码分割与按需加载" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="920" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-1" value="项目根目录index.html&lt;div&gt;&amp;lt;script type=&quot;module&quot; src=&amp;gt;&amp;lt;/script&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&amp;lt;link href&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="620" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-3" target="5Hu--Ve8GHNzu-1RMvdn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-3" target="5Hu--Ve8GHNzu-1RMvdn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-3" value="npm依赖预构建" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-5" target="5Hu--Ve8GHNzu-1RMvdn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-5" value="npm依赖解析" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-7" value="转换&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;CommonJS 或 UMD 形式依赖项转换为 ES 模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-9" target="5Hu--Ve8GHNzu-1RMvdn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-9" target="5Hu--Ve8GHNzu-1RMvdn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-9" value="esbuild将npm依赖转换为es模块，将多单文件导入模块的npm依赖构建成单模块" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-11" target="5Hu--Ve8GHNzu-1RMvdn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-11" target="5Hu--Ve8GHNzu-1RMvdn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-11" value="构建依赖缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-13" value="文件系统缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-15" value="浏览器缓存" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-18" value="&lt;h1 style=&quot;box-sizing: border-box; margin: 0px; line-height: 100%; overflow-wrap: break-word; position: relative; outline: none; letter-spacing: -0.02em; color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255); font-size: 13px;&quot; tabindex=&quot;-1&quot; id=&quot;dep-optimization-options&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;依赖优化选项&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;box-sizing: border-box; margin: 0px; line-height: 100%; overflow-wrap: break-word; position: relative; outline: none; letter-spacing: -0.02em; color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255); font-size: 13px;&quot; tabindex=&quot;-1&quot; id=&quot;dep-optimization-options&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;自定义构建include,exclude等&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-20" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;扫描您的源代码，并自动寻找引入的依赖项&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-23" target="5Hu--Ve8GHNzu-1RMvdn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-23" value="依赖模块请求" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-27" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-27" value="源码模块请求" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-48" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5Hu--Ve8GHNzu-1RMvdn-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-29" target="5Hu--Ve8GHNzu-1RMvdn-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-29" value="非浏览器识别进行转译为js es模块返回，浏览器原生es模块加载" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-31" value="预构建的返回" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-38" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-33" target="5Hu--Ve8GHNzu-1RMvdn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-33" value="typescript" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-35" target="5Hu--Ve8GHNzu-1RMvdn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-35" value="html" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-42" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-37" target="5Hu--Ve8GHNzu-1RMvdn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-37" value="&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&quot;isolatedModules&quot;: true&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&quot;useDefineForClassFields&quot;: true&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;ui-monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; color=&quot;#3451b2&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;忽略target,遵循e esbuild&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="995" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-39" value="引用资源处理打包&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;vite-ignore退出处理&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-41" value="esbuild" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-44" target="5Hu--Ve8GHNzu-1RMvdn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-44" value=".jsx/.tsx" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-46" value="esbuild+官方react/vue插件" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-49" target="5Hu--Ve8GHNzu-1RMvdn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-49" value="css" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-51" target="5Hu--Ve8GHNzu-1RMvdn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-51" value="&lt;code style=&quot;box-sizing: border-box; font-family: var(--vp-font-family-mono); font-size: var(--vp-code-font-size); color: var(--vp-code-color); border-radius: 4px; padding: 3px 6px; background-color: var(--vp-code-bg); transition: color 0.25s, background-color 0.5s; text-align: start;&quot;&gt;内部postcss-import&lt;/code&gt;&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;预配置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-53" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;支持&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--vp-font-family-mono); font-size: 13px; color: var(--vp-code-color); border-radius: 4px; padding: 3px 6px; background-color: var(--vp-code-bg); transition: color 0.25s, background-color 0.5s; text-align: start;&quot;&gt;@import&lt;/code&gt;&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;别名和 URL 变基&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-56" target="5Hu--Ve8GHNzu-1RMvdn-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-56" target="5Hu--Ve8GHNzu-1RMvdn-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-56" target="5Hu--Ve8GHNzu-1RMvdn-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-56" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;内容插入到&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--vp-font-family-mono); font-size: var(--vp-code-font-size); color: var(--vp-code-color); border-radius: 4px; padding: 3px 6px; background-color: var(--vp-code-bg); transition: color 0.25s, background-color 0.5s; text-align: start;&quot;&gt;&amp;lt;style&amp;gt;，&lt;/code&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;?inline禁用注入页面&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-65" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-61" target="5Hu--Ve8GHNzu-1RMvdn-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-61" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;内置postcss&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-64" value="支持&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;postcss.config.js配置&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-69" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-66" target="5Hu--Ve8GHNzu-1RMvdn-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-66" value="&lt;div style=&quot;text-align: start; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;vite.config.js&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;a style=&quot;box-sizing: border-box; touch-action: manipulation; text-underline-offset: 2px; transition: color 0.25s, opacity 0.25s; font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot; href=&quot;https://cn.vite.dev/config/build-options.html#build-csstarget&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--vp-font-family-mono); border-radius: 4px; padding: 3px 6px; background-color: var(--vp-code-bg); transition: color 0.25s, background-color 0.5s;&quot;&gt;build.cssTarget&lt;/code&gt;&lt;/a&gt;&lt;span style=&quot;font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-68" value="最小化压缩配置" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-73" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-70" target="5Hu--Ve8GHNzu-1RMvdn-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-70" value="css module" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-72" target="5Hu--Ve8GHNzu-1RMvdn-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-72" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;建议使用，原生 CSS 变量和实现 CSSWG 草案&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-75" value="&lt;div style=&quot;text-align: start; font-size: 14px;&quot;&gt;vite config css.modules配置&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-77" target="5Hu--Ve8GHNzu-1RMvdn-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-77" value="css 预处理器/预处理器+css module" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-79" value="&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;内置支持，无需插件，需安装相应预处理器依赖&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-81" value="lightningcss" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-86" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-83" target="5Hu--Ve8GHNzu-1RMvdn-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-83" target="5Hu--Ve8GHNzu-1RMvdn-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-83" value="静态资源" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-85" value="&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;./asset.js?url&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;解析为url&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-87" value="&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;./shader.glsl?raw&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;ui-monospace, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace&quot; color=&quot;#032f62&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;解析为字符串&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-88" target="5Hu--Ve8GHNzu-1RMvdn-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-88" value="&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;./worker.js?worker&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;加载为webworker&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-89" target="5Hu--Ve8GHNzu-1RMvdn-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="949.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-89" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;worker.js?worker&amp;amp;inline&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(3, 47, 98); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre; background-color: rgb(246, 246, 247);&quot;&gt;webworker内联为base64&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-93" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-93" value="json,导入为对象" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-95" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-101" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-95" target="5Hu--Ve8GHNzu-1RMvdn-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-95" target="5Hu--Ve8GHNzu-1RMvdn-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-95" value="glob" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-100" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-97" target="5Hu--Ve8GHNzu-1RMvdn-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-97" value="vite独有，导入多个模块" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-99" value="&lt;a style=&quot;box-sizing: border-box; touch-action: manipulation; text-underline-offset: 2px; transition: color 0.25s, opacity 0.25s; font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://github.com/SuperchupuDev/tinyglobby&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--vp-font-family-mono); font-size: var(--vp-code-font-size); color: var(--vp-code-link-hover-color); border-radius: 4px; padding: 3px 6px; background-color: var(--vp-code-bg); transition: color 0.25s, background-color 0.5s;&quot;&gt;tinyglobby&lt;/code&gt;&lt;/a&gt;&amp;nbsp;实现&lt;span style=&quot;color: rgb(60, 60, 67); font-family: &amp;quot;Punctuation SC&amp;quot;, Inter, ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-102" value="参数字面量，不可以变量表达式" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-106" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-104" target="5Hu--Ve8GHNzu-1RMvdn-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-107" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-104" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-104" value="带变量的动态导入" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-105" value="&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #D73A49; --shiki-dark: #F97583;&quot;&gt;const&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #005CC5; --shiki-dark: #79B8FF;&quot;&gt; module&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #D73A49; --shiki-dark: #F97583;&quot;&gt; =&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #D73A49; --shiki-dark: #F97583;&quot;&gt; &lt;/span&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #D73A49; --shiki-dark: #F97583;&quot;&gt;await&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #D73A49; --shiki-dark: #F97583;&quot;&gt; import&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(36, 41, 46); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #24292E; --shiki-dark: #E1E4E8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #032F62; --shiki-dark: #9ECBFF;&quot;&gt;`./dir/${&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(36, 41, 46); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #24292E; --shiki-dark: #E1E4E8;&quot;&gt;file&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--shiki-light, inherit); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #032F62; --shiki-dark: #9ECBFF;&quot;&gt;}.js`&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(36, 41, 46); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; white-space: pre; background-color: rgb(246, 246, 247); --shiki-light: #24292E; --shiki-dark: #E1E4E8;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-109" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-121" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-109" target="5Hu--Ve8GHNzu-1RMvdn-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-109" target="5Hu--Ve8GHNzu-1RMvdn-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-109" value="webassembly&lt;div&gt;二进制文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-113" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-111" target="5Hu--Ve8GHNzu-1RMvdn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-115" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-111" target="5Hu--Ve8GHNzu-1RMvdn-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Hu--Ve8GHNzu-1RMvdn-111" target="5Hu--Ve8GHNzu-1RMvdn-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-111" value="webworkers" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-114" value="构造器导入，推荐" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-117" value="查询后缀导入" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-120" value="?init导入，默认值初始化函数，执行后返回promise对象，导出assembly instance实例" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-122" value="?url加载，fetch(url),再实例化" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Hu--Ve8GHNzu-1RMvdn-124" value="&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;build.rollupOptions.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 81, 178); font-family: ui-monospace, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: start; background-color: rgba(142, 150, 170, 0.14);&quot;&gt;output.manualChunks&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="920" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
