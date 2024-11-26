@@ -14,6 +14,7 @@ const {
   case: gwCase = "goodwe",
   env = "dev",
   htmlTemplate = "public/dev.html",
+  appcode,
 } = getArgs();
 const { PORT = 3000, HOST = "127.0.0.1" } = process.env;
 export async function getViteConfig() {
@@ -25,6 +26,7 @@ export async function getViteConfig() {
     define: {
       ENV: JSON.stringify(env),
       CASE: JSON.stringify(gwCase),
+      APPCODE: appcode,
       process: {
         env: process.env,
       },
@@ -53,7 +55,7 @@ export async function getViteConfig() {
       }),
       react(),
       url(),
-      svgr(),
+      svgr({svgo: false}),
     ],
     root: process.cwd(),
     mode: "development",
