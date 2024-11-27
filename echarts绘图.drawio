@@ -232,20 +232,23 @@
         <mxCell id="4B2M-noWRDSl6KQuVCh--42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--34" target="4B2M-noWRDSl6KQuVCh--38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--34" target="4B2M-noWRDSl6KQuVCh--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--34" value="坐标轴X，Y轴&lt;div&gt;option.xAxis&lt;/div&gt;&lt;div&gt;option.yAxis&lt;/div&gt;&lt;div&gt;多轴用数组或offeset&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1940" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--35" value="轴线&lt;div&gt;axisLine&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1990" y="300" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--37" value="刻度&lt;div&gt;axisTick&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2140" y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--38" value="刻度标题&lt;div&gt;axisLabel&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2230" y="300" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--39" value="轴标题&lt;div&gt;name&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2070" y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--46" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--44" target="4B2M-noWRDSl6KQuVCh--45">
           <mxGeometry relative="1" as="geometry" />
@@ -270,6 +273,9 @@
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--52" value="文字，icon形状，颜色，位置，显隐交互等" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2730" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--56" value="缩放&lt;div&gt;dataZoom&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="300" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
