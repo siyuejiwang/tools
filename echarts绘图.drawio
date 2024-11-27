@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="969" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2303" dy="2610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-1" target="4B2M-noWRDSl6KQuVCh--51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="62893188c0fa7362-1" target="4B2M-noWRDSl6KQuVCh--60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2900" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="62893188c0fa7362-1" value="ECHARTS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1180" y="-60" width="120" height="60" as="geometry" />
@@ -276,6 +281,35 @@
         </mxCell>
         <mxCell id="4B2M-noWRDSl6KQuVCh--56" value="缩放&lt;div&gt;dataZoom&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="300" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--58" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--60" target="4B2M-noWRDSl6KQuVCh--61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--60" target="4B2M-noWRDSl6KQuVCh--62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--60" value="事件" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--64" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--61" target="4B2M-noWRDSl6KQuVCh--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--61" value="监听，并执行相应函数" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--66" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4B2M-noWRDSl6KQuVCh--62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3120" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--62" value="主动触发事件" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--63" value="myChart.on(&#39;&#39;xx&quot;, options, fn)" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4B2M-noWRDSl6KQuVCh--67" value="myChart.dispatchAction&lt;div&gt;({type: &quot;&quot;})&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="425" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
